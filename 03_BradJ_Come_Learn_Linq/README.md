@@ -5,7 +5,7 @@ Come learn Linq (BYOC) w/ Brad J.
 
 Bring your own computer and come learn linq. We will be attempting something different this month. Bring your own computer and explore the world of .NET with LINQ. For the best experience I would recommend using a copy of linqpad from linqpad.com 
 
-*Please be sure to have your environment setup before coming. *
+__*Please be sure to have your environment setup before coming.*__
 
 Links:
 
