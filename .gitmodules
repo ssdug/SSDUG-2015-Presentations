@@ -1,0 +1,3 @@
+[submodule "06_MarkL_UsingHtml5Offline/offline"]
+	path = 06_MarkL_UsingHtml5Offline/offline
+	url = https://github.com/mlybrand/offline
